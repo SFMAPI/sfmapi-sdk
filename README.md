@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **MOVED.** This project was renamed and now lives at <https://github.com/SceneAPI/SceneSDK> (`sceneapi-client` / `@sceneapi/client`). This repository holds the sfmapi-era history and will be archived.
+
 # sfmapi SDKs
 
 Client SDK repository for sfmapi. The server, wire specification, plugin hub,
